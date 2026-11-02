@@ -3,8 +3,8 @@
 **Live site: 
 **Server API:
 
-Shomaj Setu is a community-driven platform where people create, join and track social.
-service events such as winter clothes drives, blanket distribution, cleanups and plantation days.
+Shomaj Setu is a community-driven platform where people create, join and track social
+service events such as winter clothes drives, blanket distribution, cleanups and plantation days..
 
 ## Key features
 - Email/password and Google login with BetterAuth, with password rules (uppercase, lowercase, 6+ characters)
