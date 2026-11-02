@@ -13,7 +13,7 @@ service events such as winter clothes drives, blanket distribution, cleanups and
 - One-click Join Event on the details page, stored in MongoDB along with user and event data
 - Manage Events (update and delete your own events only) and Joined Events sorted by date
 - JWT-protected Express API, verified through BetterAuth's JWKS endpoint
-- Light and dark theme toggle, loading skeletons, and a profile page to update name and photo
+- Light and dark theme toggle, loading skeletons, and a profile page to update name and photo.
 - Fully responsive design for mobile, tablet and desktop.
 
 ## Tech stack
