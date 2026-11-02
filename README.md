@@ -1,14 +1,14 @@
-# Shomaj Setu — Social Development Events Platform***
+# Shomaj Setu — Social Development Events Platform
 
 **Live site: 
-**Server API:
+**Server API:p 
 
 Shomaj Setu is a community-driven platform where people create, join and track social
 service events such as winter clothes drives, blanket distribution, cleanups and plantation days
 
 ## Key features
 - Email/password and Google login with BetterAuth, with password rules (uppercase, lowercase, 6+ characters)
-- Create events with validation, including a rule that dates must be in the future
+- Create events with validation, including a rule that dates must be in the future date
 - Upcoming Events page with search, type filter and sorting; ended events never appear
 - One-click Join Event on the details page, stored in MongoDB along with user and event data
 - Manage Events (update and delete your own events only) and Joined Events sorted by date
