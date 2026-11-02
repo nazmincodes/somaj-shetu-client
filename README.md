@@ -1,10 +1,10 @@
 # Shomaj Setu — Social Development Events Platform
 
-**Live site:** https://your-live-site-url.vercel.app  
-**Server API:** https://your-server-url.vercel.app
+**Live site:** 
+**Server API:** https://3server-url.vercel.app.
 
 Shomaj Setu is a community-driven platform where people create, join and track social
-service events such as winter clothes drives, blanket distribution, cleanups and plantation days.
+service events such as winter clothes drives, blanket distribution, cleanups and plantation days..
 
 ## Key features
 - Email/password and Google login with BetterAuth, with password rules (uppercase, lowercase, 6+ characters)
