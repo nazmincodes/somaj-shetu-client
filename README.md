@@ -8,13 +8,13 @@ service events such as winter clothes drives, blanket distribution, cleanups and
 
 ## Key features
 - Email/password and Google login with BetterAuth, with password rules (uppercase, lowercase, 6+ characters)
-- Create events with validation, including a rule that dates must be in the future
+- Create events with validation, including a rule that dates must be in the future.
 - Upcoming Events page with search, type filter and sorting; ended events never appear
 - One-click Join Event on the details page, stored in MongoDB along with user and event data
 - Manage Events (update and delete your own events only) and Joined Events sorted by date
-- JWT-protected Express API, verified through BetterAuth's JWKS endpoint..
-- Light and dark theme toggle, loading skeletons, and a profile page to update name and photo.
-- Fully responsive design for mobile, tablet and desktop.
+- JWT-protected Express API, verified through BetterAuth's JWKS endpoint
+- Light and dark theme toggle, loading skeletons, and a profile page to update name and photo
+- Fully responsive design for mobile, tablet and desktop
 
 ## Tech stack
 Next.js (App Router), daisyUI + Tailwind CSS, BetterAuth (MongoDB adapter + JWT), Express.js, MongoDB
