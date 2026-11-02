@@ -1,10 +1,10 @@
 # Shomaj Setu — Social Development Events Platform
 
-**Live site:** 
-**Server API:** https://3server-url.vercel.app.
+**Live site: 
+**Server API:
 
 Shomaj Setu is a community-driven platform where people create, join and track social
-service events such as winter clothes drives, blanket distribution, cleanups and plantation days..
+service events such as winter clothes drives, blanket distribution, cleanups and plantation days.
 
 ## Key features
 - Email/password and Google login with BetterAuth, with password rules (uppercase, lowercase, 6+ characters)
@@ -14,7 +14,7 @@ service events such as winter clothes drives, blanket distribution, cleanups and
 - Manage Events (update and delete your own events only) and Joined Events sorted by date
 - JWT-protected Express API, verified through BetterAuth's JWKS endpoint
 - Light and dark theme toggle, loading skeletons, and a profile page to update name and photo
-- Fully responsive design for mobile, tablet and desktop
+- Fully responsive design for mobile, tablet and desktop.
 
 ## Tech stack
 Next.js (App Router), daisyUI + Tailwind CSS, BetterAuth (MongoDB adapter + JWT), Express.js, MongoDB
