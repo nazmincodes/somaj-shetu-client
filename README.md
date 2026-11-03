@@ -1,6 +1,6 @@
 # Shomaj Setu — Social Development Events Platform
 
-**Live site: live link
+**Live site: live link 
 **Server API: server api 
 
 Shomaj Setu is a community-driven platform where people create, join and track social
@@ -17,13 +17,12 @@ service events such as winter clothes drives, blanket distribution, cleanups and
 - Fully responsive design for mobile, tablet and desktop
 
 ## Tech stack
-Next.js (App Router), daisyUI + Tailwind CSS, BetterAuth (MongoDB adapter + JWT), Express.js, MongoDB
-
+Next.js (App Router), daisyUI + Tailwind CSS, BetterAuth (MongoDB adapter + JWT), Express.js, MongoDB...
 ## Run locally
 1. `npm install`
 2. Fill in `.env` (variable names are already listed):
-   - `NEXT_PUBLIC_API_URL` – URL of the Express server
-   - `BETTER_AUTH_SECRET` – any long random string
+   - `NEXT_PUBLIC_API_URL` – URL of the Express server.
+   - `BETTER_AUTH_SECRET` – any long random string.
    - `BETTER_AUTH_URL` – URL of this client app (e.g. http://localhost:3000)
    - `MONGODB_URI`, `MONGODB_DB` – MongoDB connection string and database name
    - `GOOGLE_CLIENT_ID`, `GOOGLE_CLIENT_SECRET` – Google OAuth credentials
