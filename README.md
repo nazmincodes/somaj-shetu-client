@@ -1,7 +1,7 @@
 # Shomaj Setu — Social Development Events Platform
 
-**Live site: 
-**Server API:p 
+**Live site: live link
+**Server API: server api 
 
 Shomaj Setu is a community-driven platform where people create, join and track social
 service events such as winter clothes drives, blanket distribution, cleanups and plantation days
